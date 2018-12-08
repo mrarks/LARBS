@@ -198,7 +198,7 @@ installationloop
 putgitrepo "$dotfilesrepo" "/home/$name"
 
 # Install the LARBS Firefox profile in ~/.mozilla/firefox/
-putgitrepo "https://github.com/LukeSmithxyz/mozillarbs.git" "/home/$name/.mozilla/firefox"
+#putgitrepo "https://github.com/LukeSmithxyz/mozillarbs.git" "/home/$name/.mozilla/firefox"
 
 # Installation of the post-install wizard
 #putgitrepo "https://github.com/LukeSmithxyz/arch-postinstall-wizard" "/home/$name/larbs-wizard"
