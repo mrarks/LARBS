@@ -55,10 +55,12 @@ A,urlscan,parses URLs in the terminal allowing keyboard-based selection.
 ,zathura-pdf-mupdf,allows mupdf pdf compatibility in zathura.
 ,poppler,manipulates .pdfs and gives .pdf previews in ranger.
 ,mediainfo,shows audio and video information and is used by ranger as well.
+A,polybar,my bar of choice.
 ,atool,manages and gives information about archives.
 ,fzf,is a fuzzy finder tool.
 ,highlight,can highlight code output.
 ,neofetch,displays some system information if you want to post to reddit or something lol.
+,bash-completion,proper completion to bash commands.
 G,https://github.com/alexanderjeurissen/ranger_devicons.git,gives folder and file icons in ranger.
 A,task-spooler,queues commands or files for download.
 A,simple-mtpfs,mounts mtp drives.
